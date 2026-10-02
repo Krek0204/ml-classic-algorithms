@@ -26,10 +26,10 @@
 
 | # | Алгоритм | Задача | Статус |
 |---|----------|--------|--------|
-| 1 | Linear Regression | Регрессия | ⏳ planned |
-| 2 | Logistic Regression | Классификация | ⏳ planned |
+| 1 | Linear Regression | Регрессия | Реализована |
+| 2 | Logistic Regression | Классификация | Реализована |
 | 3 | Decision Tree | Классификация / регрессия | ⏳ planned |
-| 4 | k-Nearest Neighbors (k-NN) | Классификация / регрессия | ⏳ planned |
+| 4 | k-Nearest Neighbors (k-NN) | Классификация / регрессия | Реализована |
 | 5 | Support Vector Machine (SVM) | Классификация | ⏳ planned |
 | 6 | Naive Bayes | Классификация | ⏳ planned |
 | 7 | Random Forest | Классификация / регрессия | ⏳ planned |
